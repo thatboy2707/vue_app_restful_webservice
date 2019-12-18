@@ -18,7 +18,7 @@ public class HomeController {
 
         newHome.setAddress(address);
         newHome.setNeighborhood("area");
-        newHome.setSquareFootage("1200");
+        newHome.setSquareFootage(1200);
 
 //        this.address = address;
 //        this.neighborhood = neighborhood;
